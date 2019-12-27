@@ -1,4 +1,4 @@
-<?php namespace Rainbow2019s\Logger\Facades\Logger;
+<?php namespace Rainbow2019s\Logger;
 
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\RotatingFileHandler;

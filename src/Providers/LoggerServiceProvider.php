@@ -1,9 +1,7 @@
-<?php
-
-namespace Rainbow2019s\Logger\Providers;
+<?php namespace Rainbow2019s\Logger\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Rainbows\Logger\Facades\Logger\Logger;
+use Rainbow2019s\Logger\Logger;
 
 class LoggerServiceProvider extends ServiceProvider
 {

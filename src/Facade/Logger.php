@@ -1,4 +1,4 @@
-<?php namespace Rainbow2019s\Logger\Facades\Logger\Facade;
+<?php namespace Rainbow2019s\Logger\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
