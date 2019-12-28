@@ -6,14 +6,22 @@
             "email": "l.hao.2012@qq.com"
         }
     ],
-    "description":"",
+    "description":"logger",
     "type": "library",
+    "keywords":["logger"],
+    "homepage": "https://github.com/rainbow2019s/logger",
+    "time":"2019-12-27",
     "license": "MIT",
+    "support":{
+        "issues":"https://github.com/rainbow2019s/logger/issues",
+        "wiki":"https://github.com/rainbow2019s/logger/wiki"
+    },
+
     "minimum-stability":"dev",
     "require": {
         "php": ">=7.1.3",
         "illuminate/support": "5.7.*",
-        "monolog/monolog":"2.0.2"
+        "monolog/monolog":">=1.2.*"
     },
     "autoload": {
         "psr-4": {
