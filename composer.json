@@ -19,7 +19,7 @@
 
     "minimum-stability":"dev",
     "require": {
-
+ 
     },
     "autoload": {
         "psr-4": {

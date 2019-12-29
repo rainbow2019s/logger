@@ -1,5 +1,13 @@
 ## A simple example
 
+```bootstrap/app.php
+<?php
+
+  ...
+  $app->register(Rainbow2019s\Logger\Providers\LoggerServiceProvider::class);
+  ...
+```  
+
 ```php
 <?php
 
@@ -17,3 +25,4 @@ class TestController extends Controller
         return 'ok';
     }
 }
+```
