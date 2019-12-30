@@ -17,8 +17,6 @@ use Rainbow2019s\Logger\Facade\Logger;
 
 class TestController extends Controller
 {
-    private $prophet;
-
     public function test()
     {
         Logger::info('user add',['id'=>1]);
