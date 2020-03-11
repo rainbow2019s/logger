@@ -16,7 +16,7 @@ class Logger {
       }
 
   public function info($message,$context=[]){
-    $this->_logger->addInfo($message,$context);
+    $this->_logger->info($message,$context);
   }
 
 }
